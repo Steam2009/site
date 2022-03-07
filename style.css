@@ -1,0 +1,63 @@
+body {
+    background: #F5F5F5;
+    color: #000000;
+    font-family: sans-serif;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+    color:#00FA9A;
+}
+.tewt{
+    font-size: 30px;
+    text-align: center;
+}
+
+.poy{
+height: 20px;
+background:rgb(0, 0, 0);
+width: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+b{
+    color:#00FA9A;
+}
+.header{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    background-color: #00FA9A;
+    color: #F5F5F5;
+    font-family: Uni sans ;
+}
+.header_selection{
+    display: flex;
+    align-items: center;
+}
+.header_iteam{
+    font-size: 20px;
+    padding: 10px 15px;
+    margin-left: 5px;
+}
+.header_iteam:hover{
+    background-color: #F5F5F5;
+    border-radius: 4px;
+}
+.hederlogo{
+    font-weight: bold;
+    font-size: 30px;
+}
+.archi{
+    text-align: center;
+    opacity: 0.5;
+    font-size: 30px;
+}
+.imgcenter{
+  margin: auto;
+  display: block;
+}
